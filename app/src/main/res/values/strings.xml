@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">GeoGuess India</string>
+    <string name="login_title">Welcome back</string>
+    <string name="signup_title">Create account</string>
+    <string name="hint_name">Player name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm">Confirm password</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="btn_logout">Log out</string>
+    <string name="link_to_signup">New here? Create an account</string>
+    <string name="link_to_login">Already have an account? Log in</string>
+
+    <string name="map_test_hint">Tap the map to drop a pin</string>
+    <string name="map_attribution">© Stadia Maps © OpenMapTiles © OpenStreetMap contributors</string>
+    <string name="btn_map_test">Map test</string>
+
+    <string name="btn_data_test">Data test</string>
+    <string name="btn_load_places">Load landmarks</string>
+    <string name="btn_add_score">Add random test score</string>
+    <string name="btn_clear_scores">Clear local scores</string>
+    <string name="landmark_photo">Landmark photo</string>
+
+
+    <string name="tab_play">Play</string>
+    <string name="tab_leaderboard">Leaderboard</string>
+    <string name="tab_profile">Profile</string>
+    <string name="label_difficulty">Difficulty</string>
+    <string name="label_region">Region</string>
+    <string name="label_sound">Sound effects</string>
+    <string name="btn_start">Start game</string>
+    <string name="btn_submit">Submit guess</string>
+    <string name="btn_close">Close</string>
+    <string name="web_title">Learn more</string>
+    <string name="leaderboard_soon">The leaderboard arrives in Part 2.</string>
+    <string name="rules_text">5 rounds, 30 seconds each, up to 5000 points per round.\n\nEasy shows a hint and uses well-known places. Medium adds harder places with no hint. Hard uses all landmarks with no hint.</string>
+
+    <string-array name="difficulties">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+    <string-array name="regions">
+        <item>All</item>
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+        <item>Central</item>
+        <item>Northeast</item>
+        <item>Islands</item>
+    </string-array>
+
+
+    <string name="game_complete">Game complete</string>
+    <string name="new_best">New personal best!</string>
+    <string name="tap_row_hint">Tap a row to open that place in Maps.</string>
+    <string name="btn_share">Share score</string>
+    <string name="btn_leaderboard">Leaderboard</string>
+    <string name="btn_home">Back to home</string>
+    <string name="btn_open_leaderboard">Open leaderboard</string>
+    <string name="leaderboard_intro">See the best scores from all players online, or just the ones saved on this phone.</string>
+
+    <string-array name="leaderboard_filters">
+        <item>All</item>
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="tagline">Drop a pin. Beat the clock.</string>.
+    <string name="link_forgot">Forgot password?</string>
+    <string name="login_sub">Log in to keep playing</string>
+    <string name="signup_sub">Create an account to join the leaderboard</string>
+    <string name="how_it_works">How it works</string>
+    <string name="dev_tools">Developer tools</string>
+    <string name="password_rules">At least 8 characters, with upper case, lower case and a number</string>
+</resources>

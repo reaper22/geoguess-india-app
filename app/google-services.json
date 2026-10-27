@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622191762831",
+    "project_id": "geoguess-india-4c72b",
+    "storage_bucket": "geoguess-india-4c72b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622191762831:android:13f39a372e75c29512fffa",
+        "android_client_info": {
+          "package_name": "com.example.geoguessindia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1miECumvUvcOfAL7pkaLAVgsBJXZxnuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

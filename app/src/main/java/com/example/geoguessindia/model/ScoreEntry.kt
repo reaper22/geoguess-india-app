@@ -1,0 +1,9 @@
+package com.example.geoguessindia.model
+
+
+data class ScoreEntry(
+    val player: String,
+    val score: Int,
+    val difficulty: String,
+    val date: String
+)

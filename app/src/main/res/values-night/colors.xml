@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gg_primary">#FFB68A</color>
+    <color name="gg_on_primary">#552100</color>
+    <color name="gg_primary_container">#7B3305</color>
+    <color name="gg_on_primary_container">#FFDBC8</color>
+    <color name="gg_secondary">#81C784</color>
+    <color name="gg_on_secondary">#00390F</color>
+    <color name="gg_secondary_container">#1F5124</color>
+    <color name="gg_on_secondary_container">#C8E6C9</color>
+    <color name="gg_background">#18120E</color>
+    <color name="gg_surface">#231B16</color>
+    <color name="gg_surface_variant">#3B302A</color>
+    <color name="gg_on_surface">#EDE0D8</color>
+    <color name="gg_on_surface_variant">#D6C3B8</color>
+    <color name="gg_outline">#A08D83</color>
+    <color name="gg_outline_variant">#50443D</color>
+    <color name="gg_error">#FFB4AB</color>
+    <color name="gg_on_error">#690005</color>
+
+    <color name="table_header">#33FFFFFF</color>
+</resources>

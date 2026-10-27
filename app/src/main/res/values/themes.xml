@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.GeoGuessIndia" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gg_primary</item>
+        <item name="colorOnPrimary">@color/gg_on_primary</item>
+        <item name="colorPrimaryContainer">@color/gg_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/gg_on_primary_container</item>
+        <item name="colorSecondary">@color/gg_secondary</item>
+        <item name="colorOnSecondary">@color/gg_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/gg_secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/gg_on_secondary_container</item>
+        <item name="colorError">@color/gg_error</item>
+        <item name="colorOnError">@color/gg_on_error</item>
+
+        <item name="android:colorBackground">@color/gg_background</item>
+        <item name="colorSurface">@color/gg_surface</item>
+        <item name="colorOnSurface">@color/gg_on_surface</item>
+        <item name="colorSurfaceVariant">@color/gg_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/gg_on_surface_variant</item>
+        <item name="colorOutline">@color/gg_outline</item>
+        <item name="colorOutlineVariant">@color/gg_outline_variant</item>
+
+        <item name="colorSurfaceContainerLowest">@color/gg_surface</item>
+        <item name="colorSurfaceContainerLow">@color/gg_surface</item>
+        <item name="colorSurfaceContainer">@color/gg_surface_variant</item>
+        <item name="colorSurfaceContainerHigh">@color/gg_surface_variant</item>
+        <item name="colorSurfaceContainerHighest">@color/gg_surface_variant</item>
+
+        <item name="android:statusBarColor">@color/gg_background</item>
+        <item name="android:navigationBarColor">@color/gg_background</item>
+        <item name="android:windowLightStatusBar">@bool/gg_light_bars</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">@bool/gg_light_bars</item>
+    </style>
+
+    <style name="Theme.GeoGuessIndia" parent="Base.Theme.GeoGuessIndia" />
+</resources>
